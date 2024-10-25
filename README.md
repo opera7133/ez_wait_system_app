@@ -1,4 +1,4 @@
-# EZ WAIT SYSTEM
+# EZ WAIT SYSTEM APP
 
 シンプルな順番待ち管理アプリ。
 
